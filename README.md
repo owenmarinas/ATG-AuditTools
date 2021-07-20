@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ATG-AuditTools
 RAS Digital ATG team audit tools
 Follow the numbers for a quick start
@@ -10,6 +9,3 @@ owen.marinas@.com
     authenticate racker/ read FROM passwdsafe welogic username, passwd and URL
 
 
-=======
-# ATG-AuditTools
->>>>>>> parent of 819643b... Initial Commit
